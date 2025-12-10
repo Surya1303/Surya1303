@@ -54,7 +54,7 @@ I build clean, functional, and user‑friendly web applications. I enjoy turning
 
 Responsive front‑end built with JS + CSS animations.
 
-### 🔹 **Youtube Clone With Rest API**
+### 🔹 **Youtube Clone With API Key**
 
 Youtube Clone with JS + React.
 
@@ -62,20 +62,10 @@ Youtube Clone with JS + React.
 
 Small, powerful Employee Management system with MERN.
 
----
 
 
 ###
 
-## 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surya1303/Surya1303/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surya1303/Surya1303/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Surya1303/Surya1303/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
 ## 🤝 Connect With Me
