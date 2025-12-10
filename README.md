@@ -39,7 +39,6 @@ I build clean, functional, and user‑friendly web applications. I enjoy turning
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
----
 
 ## 📌 About Me
 
@@ -48,7 +47,6 @@ I build clean, functional, and user‑friendly web applications. I enjoy turning
 * 🔍 Exploring advanced Java concepts and modern backend tooling
 * 🧩 I enjoy debugging strange bugs and simplifying complex logic
 
----
 
 ## 📂 Featured Projects
 
@@ -79,7 +77,6 @@ Small, powerful Employee Management system with MERN.
 
 ###
 
----
 
 ## 🤝 Connect With Me
 
@@ -94,6 +91,5 @@ Small, powerful Employee Management system with MERN.
 
 ###
 
----
 
 Thanks for visiting! ⭐ Feel free to explore my repositories and drop suggestions.
